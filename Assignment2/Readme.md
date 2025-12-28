@@ -77,7 +77,7 @@ Using loop get the sum of numbers from 1 to 50 over every iteration.
     print(f"The sum of numbers from 1 to {j} is {sum_of_numbers}.")
 # Output 2
   FOR :
-  # To show the output of each iteration
+   To show the output of each iteration
       The sum of numbers from 1 to 1 is 1.
       The sum of numbers from 1 to 2 is 3.
       The sum of numbers from 1 to 3 is 6.
