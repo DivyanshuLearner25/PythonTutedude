@@ -1,4 +1,6 @@
 # This is my second task of Assignment 2.
+
+# code
 # To show the output of each iteration
 sum_of_numbers=0
 for j in range(1,51,1):
