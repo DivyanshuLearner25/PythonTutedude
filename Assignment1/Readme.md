@@ -35,7 +35,10 @@ Hey this is my first repo on Github as I am a Beginner in it.
 
 
 # Task2
-    I created 2 variables first_name & last_name to store the first name and the last name of user. Then I used concanate variable to concatenate first and second varibles. At last using  print() function I printed my output.
+    I created 2 variables first_name & last_name
+        to store the first name and the last name of user. 
+    Then I used concanate variable to concatenate first and second varibles.
+    At last using  print() function I printed my output.
 
 # Code
     first_name=input("Enter your first name :")
