@@ -12,11 +12,12 @@ Checking a number given by user is even or odd.
 
              if user_input % 2 == 0:
   4. printed message using print()
-  5. print else condition with else statement.I have used in it fstring concept also.
 
-             print(f"{user_input} is an even number.")
-    else:
-        print(f"{user_input} is an odd number.")
+           print(f"{user_input} is an even number.")
+  6. print else condition with else statement.I have used in it fstring concept also.
+
+          else:
+              print(f"{user_input} is an odd number.")
 # Task2
 Using loop get the sum of numbers from 1 to 50 over every iteration.
 
